@@ -1,3 +1,2 @@
-.ds_store
-Day_1/day_1_input.txt
-Day_1_b/day_1_input.txt
+.DS_Store
+*.txt
