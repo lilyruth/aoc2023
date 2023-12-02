@@ -10,7 +10,7 @@ Things that are different for me for Year 3 (will add as I go):
 - I'm not going to stress myself out over this. It will be great to get farther than the last 2 years, but I have a lot of responsibilities on me at the moment. This is what I am doing for fun and self-care (as odd as that may sound). So I'm letting go of pressure and expectations for this year and just enjoying it. Whether I make it 2 days or 20, I'm grateful for the experience and the joy it brings.
 
 
-[Day 1](#Day1)
+[Day 1](#Day1) 
 [Day 2](#Day2)
 
 ## <a name="Day1">Day 1</a>
