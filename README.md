@@ -1,5 +1,9 @@
 # <a name="top">Advent of Code 2023!</a>
 
+[Day 1](#Day1)  
+[Day 2](#Day2)
+
+
 Things that are different for me for Year 3 (will add as I go):
 
 - I'm not ashamed that I'm not going to come up with the most optimized solutions. I'm going to come up with the simplest solution that I am able to do that gets it done. I have the rest of my career to get better at best practices and believe me, I want to. However after a year+ on the job I have learned there is a high premium on quick, thorough solutions. I don't have to solve for every future conceivable edge case, but if I happen to stumble on that, cool. I have to solve for the edge cases that exist in front of me. My philosophy now is keep it simple and learn as I go.
@@ -9,9 +13,6 @@ Things that are different for me for Year 3 (will add as I go):
 - I am seriously contemplating creating a Reddit account just to interact with the [AoC after-party](https://www.reddit.com/r/adventofcode/). It's my tradition to solve first and then go laugh at memes. I have never in my life before contemplated creating a reddit account. But the memes are so much fun. And I've looped my whole family into this now. My kids will gather around the computer as I explain the puzzle and then we laugh--sometimes until we cry--over the visualizations and memes on reddit. The AoC community is one of the best. 
 - I'm not going to stress myself out over this. It will be great to get farther than the last 2 years, but I have a lot of responsibilities on me at the moment. This is what I am doing for fun and self-care (as odd as that may sound). So I'm letting go of pressure and expectations for this year and just enjoying it. Whether I make it 2 days or 20, I'm grateful for the experience and the joy it brings.
 
-
-[Day 1](#Day1)  
-[Day 2](#Day2)
 
 ## <a name="Day1">Day 1</a>
 
@@ -38,4 +39,6 @@ The big trick for today's solve that made both parts easier was not getting too 
 Part two was surprisingly smooth today. All I had to do was modify the existing code to check for any color count that was greater than what was in the current set and then replace if so. I multiplied the piece counts at the end and then added it to the sum. Done. :) 
 
 Now I just have to decide if I'm staying up late tonight to solve Day 3 or waking up stupid early again tomorrow. :D :D 
+
+Edited to Add: [Accurate](https://www.reddit.com/r/adventofcode/comments/1893ua2/2023_day_2_parsing_was_a_chore_but_man/)
 
