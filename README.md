@@ -14,6 +14,7 @@ Things that are different for me for Year 3 (will add as I go):
 - I am seriously contemplating creating a Reddit account just to interact with the [AoC after-party](https://www.reddit.com/r/adventofcode/). It's my tradition to solve first and then go laugh at memes. I have never in my life before contemplated creating a reddit account. But the memes are so much fun. And I've looped my whole family into this now. My kids will gather around the computer as I explain the puzzle and then we laugh--sometimes until we cry--over the visualizations and memes on reddit. The AoC community is one of the best. 
 - I'm not going to stress myself out over this. It will be great to get farther than the last 2 years, but I have a lot of responsibilities on me at the moment. This is what I am doing for fun and self-care (as odd as that may sound). So I'm letting go of pressure and expectations for this year and just enjoying it. Whether I make it 2 days or 20, I'm grateful for the experience and the joy it brings.
 
+[Back to top](#top)
 
 ## <a name="Day1">Day 1</a>
 
@@ -29,6 +30,8 @@ My major stumbling block is I still think with JavaScript brain (don't train on 
 
 Overall not a bad way to start day one. [But the memes?](https://www.reddit.com/r/adventofcode/comments/1885c33/2023_day_01_did_not_expect_this_on_day_1/) Worth it. 
 
+[Back to top](#top)
+
 ## <a name="Day2">Day 2</a>
 
 Y'all I woke up at 5:30 on a Saturday morning with no alarm because I was so excited for this. I thought about staying up to solve last night but we have a full weekend of activities ahead of us and I really don't want to be grumpy. Also there's something fun about gulping down coffee while solving code so there's that too. 
@@ -42,6 +45,8 @@ Part two was surprisingly smooth today. All I had to do was modify the existing 
 Now I just have to decide if I'm staying up late tonight to solve Day 3 or waking up stupid early again tomorrow. :D :D 
 
 Edited to Add: [Accurate](https://www.reddit.com/r/adventofcode/comments/1893ua2/2023_day_2_parsing_was_a_chore_but_man/)
+
+[Back to top](#top)
 
 ## <a name="Day3">Day 3</a>
 
@@ -58,3 +63,5 @@ The second problem I encountered was a bug in my parsing. I used the character a
 Because I had part 1 set up well, part 2 didn't take long and I got it right on the first try. I set up a dictionary to store star coordinates as a flattened string. Any number adjacent to that particular star coordinate got added to the value list for that star. At the end I gathered the star coordinates with 2 numbers, multiplied and totaled.
 
 Here's to hoping Day 4 is more like Day 2 in difficulty, I'd like to get at least a week accomplished this year... :)
+
+[Back to top](#top)

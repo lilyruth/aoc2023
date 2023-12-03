@@ -65,3 +65,4 @@ for line in f:
 #print(engine_parts)
 print(f"The sum of all the part numbers is {sum(engine_parts)}")
 
+

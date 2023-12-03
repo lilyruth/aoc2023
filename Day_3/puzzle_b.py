@@ -68,3 +68,4 @@ for gear_set in gear_values:
 #print(gear_ratios)
 print(f"The sum of the gear ratios is {sum(gear_ratios)}")
 
+
