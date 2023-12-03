@@ -1,7 +1,8 @@
 # <a name="top">Advent of Code 2023!</a>
 
 [Day 1](#Day1)  
-[Day 2](#Day2)
+[Day 2](#Day2)  
+[Day 3](#Day3)
 
 
 Things that are different for me for Year 3 (will add as I go):
@@ -42,3 +43,18 @@ Now I just have to decide if I'm staying up late tonight to solve Day 3 or wakin
 
 Edited to Add: [Accurate](https://www.reddit.com/r/adventofcode/comments/1893ua2/2023_day_2_parsing_was_a_chore_but_man/)
 
+## <a name="Day3">Day 3</a>
+
+Seeing how easy Day 2 was (a return to "normal," I was hoping), I rested well last night and woke up about 6, got my coffee and sat down to start working...
+
+[Only to get slammed with a 2D matrix with diagonals](https://www.reddit.com/r/adventofcode/comments/189p6qt/2023_day_3_part_2_what_really_grinds_my_gears/). 
+
+OK, no big deal, I had a pretty decent idea of how to get the data I needed. It's just matrices are tedious. 
+
+The first issue I ran into is I am still used to JavaScript scoping and have not yet gotten a good understanding of Python scoping within functions. I learned about global scope, but still had an issue bringing in one variable that kept getting converted to local scope. I decided instead to just convert that to a list which helped with debugging later. But, I made progress on understanding how global and local scope are handled in Python, so that counts as a win for today.
+
+The second problem I encountered was a bug in my parsing. I used the character after a number to determine if I was finished building that number, but that doesn't work for end of line numbers. I got lucky in that I was testing to see if '\n' was considered a symbol and when I included that my answer was too high. So I had a definite range to work with and got a pretty good idea that somehow I wasn't including end of line numbers. I went back over my code and found if I just add a condition that checks for if it is the end of the line then I got the correct answer.
+
+Because I had part 1 set up well, part 2 didn't take long and I got it right on the first try. I set up a dictionary to store star coordinates as a flattened string. Any number adjacent to that particular star coordinate got added to the value list for that star. At the end I gathered the star coordinates with 2 numbers, multiplied and totaled.
+
+Here's to hoping Day 4 is more like Day 2 in difficulty, I'd like to get at least a week accomplished this year... :)
