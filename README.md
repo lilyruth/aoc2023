@@ -3,7 +3,7 @@
 [Day 1](#Day1)  
 [Day 2](#Day2)  
 [Day 3](#Day3)
-
+[Day 4](#Day4)
 
 Things that are different for me for Year 3 (will add as I go):
 
@@ -63,5 +63,15 @@ The second problem I encountered was a bug in my parsing. I used the character a
 Because I had part 1 set up well, part 2 didn't take long and I got it right on the first try. I set up a dictionary to store star coordinates as a flattened string. Any number adjacent to that particular star coordinate got added to the value list for that star. At the end I gathered the star coordinates with 2 numbers, multiplied and totaled.
 
 Here's to hoping Day 4 is more like Day 2 in difficulty, I'd like to get at least a week accomplished this year... :)
+
+[Back to top](#top)
+
+## <a name="Day4">Day 4</a>
+
+I knocked out part 1 pretty easily before work, and then for part 2 I needed a little more time to think than my morning commute would allow. So I left that for after work & family activities. 
+
+My first thought was an enqueue/dequeue system, which, when I ran it, caused my VS Code editor to shut down. I knew some minutes before that happened that I needed to optimize it. An hour later, my very tired brain figured out the math pattern needed for a one-pass go. It should have been simple but my brain was not thinking in that direction today. 
+
+A win is a win, though, and I will take this one!!
 
 [Back to top](#top)
