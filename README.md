@@ -4,6 +4,7 @@
 [Day 2](#Day2)  
 [Day 3](#Day3)  
 [Day 4](#Day4)  
+[Day 5](#Day5)  
 
 Things that are different for me for Year 3 (will add as I go):
 
@@ -73,5 +74,15 @@ I knocked out part 1 pretty easily before work, and then for part 2 I needed a l
 My first thought was an enqueue/dequeue system, which, when I ran it, caused my VS Code editor to shut down. I knew some minutes before that happened that I needed to optimize it. An hour later, my very tired brain figured out the math pattern needed for a one-pass go. It should have been simple but my brain was not thinking in that direction today. 
 
 A win is a win, though, and I will take this one!!
+
+[Back to top](#top)
+
+## <a name="Day5">Day 5</a>
+
+I got off to a slower start for this one for a couple of reasons. I had to hard code the sample input to start in order to understand the pattern. After I did that I was able to change it to dynamic inputs, although I know I can even optimize that further if I wanted.
+
+Part 2 the code change wasn't much, it was the brute forcing that created an issue. As far as I'm concerned though, I put in hours every day coding and sometimes on one problem. So can my computer. We'll call it an equal partnership. 
+
+I will go back and watch an AoC YouTuber explain how to optimize this, but for day 5, I have two more stars. ⭐ ⭐
 
 [Back to top](#top)
