@@ -5,6 +5,7 @@
 [Day 3](#Day3)  
 [Day 4](#Day4)  
 [Day 5](#Day5)  
+[Day 6](#Day6)  
 
 Things that are different for me for Year 3 (will add as I go):
 
@@ -84,5 +85,11 @@ I got off to a slower start for this one for a couple of reasons. I had to hard 
 Part 2 the code change wasn't much, it was the brute forcing that created an issue. As far as I'm concerned though, I put in hours every day coding and sometimes on one problem. So can my computer. We'll call it an equal partnership. 
 
 I will go back and watch an AoC YouTuber explain how to optimize this, but for day 5, I have two more stars. ⭐ ⭐
+
+[Back to top](#top)
+
+## <a name="Day6">Day 6</a>
+
+This is my fastest solve for AoC 2023 yet... Pretty straightforward, just a lot of parsing and a little math. ⭐ ⭐
 
 [Back to top](#top)
