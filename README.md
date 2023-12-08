@@ -7,6 +7,7 @@
 [Day 5](#Day5)  
 [Day 6](#Day6)  
 [Day 7](#Day7)  
+[Day 8](#Day8)  
 
 
 Things that are different for me for Year 3 (will add as I go):
@@ -99,5 +100,13 @@ This is my fastest solve for AoC 2023 yet... Pretty straightforward, just a lot 
 ## <a name="Day7">Day 7</a>
 
 Python deepcopy and sort are the real MVP today. ⭐ ⭐
+
+[Back to top](#top)
+
+## <a name="Day8">Day 8</a>
+
+First time using Numpy!! It was an interesting puzzle today for sure. 
+
+The story is funny... [and that makes the memes one of my favorite parts of this adventure].(https://www.reddit.com/r/adventofcode/comments/18diyh9/2023_day_8_part_2_quantum_ghosts/) ⭐ ⭐
 
 [Back to top](#top)
