@@ -107,6 +107,6 @@ Python deepcopy and sort are the real MVP today. ⭐ ⭐
 
 First time using Numpy!! It was an interesting puzzle today for sure. 
 
-The story is funny... [and that makes the memes one of my favorite parts of this adventure].(https://www.reddit.com/r/adventofcode/comments/18diyh9/2023_day_8_part_2_quantum_ghosts/) ⭐ ⭐
+The story is funny... [and that makes the memes one of my favorite parts of this adventure](https://www.reddit.com/r/adventofcode/comments/18diyh9/2023_day_8_part_2_quantum_ghosts/) ⭐ ⭐
 
 [Back to top](#top)
