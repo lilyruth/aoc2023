@@ -6,6 +6,8 @@
 [Day 4](#Day4)  
 [Day 5](#Day5)  
 [Day 6](#Day6)  
+[Day 7](#Day7)  
+
 
 Things that are different for me for Year 3 (will add as I go):
 
