@@ -93,3 +93,9 @@ I will go back and watch an AoC YouTuber explain how to optimize this, but for d
 This is my fastest solve for AoC 2023 yet... Pretty straightforward, just a lot of parsing and a little math. ⭐ ⭐
 
 [Back to top](#top)
+
+## <a name="Day7">Day 7</a>
+
+Python deepcopy and sort are the real MVP today. ⭐ ⭐
+
+[Back to top](#top)
