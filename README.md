@@ -8,6 +8,7 @@
 [Day 6](#Day6)  
 [Day 7](#Day7)  
 [Day 8](#Day8)  
+[Day 9](#Day9)  
 
 
 Things that are different for me for Year 3 (will add as I go):
@@ -108,5 +109,11 @@ Python deepcopy and sort are the real MVP today. ⭐ ⭐
 First time using Numpy!! It was an interesting puzzle today for sure. 
 
 The story is funny... [and that makes the memes one of my favorite parts of this adventure](https://www.reddit.com/r/adventofcode/comments/18diyh9/2023_day_8_part_2_quantum_ghosts/) ⭐ ⭐
+
+[Back to top](#top)
+
+## <a name="Day9">Day 9</a>
+
+I must have set up my code just perfectly, because today's puzzle for part 2 simply required adding .reverse() ...  ⭐ ⭐
 
 [Back to top](#top)
