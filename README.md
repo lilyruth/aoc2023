@@ -9,6 +9,7 @@
 [Day 7](#Day7)  
 [Day 8](#Day8)  
 [Day 9](#Day9)  
+[Day 10](#Day10)  
 
 
 Things that are different for me for Year 3 (will add as I go):
@@ -115,5 +116,11 @@ The story is funny... [and that makes the memes one of my favorite parts of this
 ## <a name="Day9">Day 9</a>
 
 I must have set up my code just perfectly, because today's puzzle for part 2 simply required adding .reverse() ...  ⭐ ⭐
+
+[Back to top](#top)
+
+## <a name="Day10">Day 10</a>
+
+I spoke too soon with Day 9's success... a stomach bug on Day 10 followed by a storm of things not Advent of Code related prevented me from solving Day 10 in a timely manner... however with a hints from Reddit on part 2 I got it figured out. I had the right idea, but I was not carefully looking at the way the pieces worked enough. 2 weeks later, I'm just thrilled to not have stopped on Day 10.  ⭐ ⭐
 
 [Back to top](#top)
